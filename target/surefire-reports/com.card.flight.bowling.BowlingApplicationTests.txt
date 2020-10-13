@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.card.flight.bowling.BowlingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.753 s - in com.card.flight.bowling.BowlingApplicationTests
